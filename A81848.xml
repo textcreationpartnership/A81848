@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning state-farthings; or, Certain remonstrative reasons for the allowance thereof; wherein is comprised, 1 the honour of the states vindicated, 2 the peoples hearts contented, 3 the Common-wealths good propagated, 4 the relief of the poor increased. By Thomas Dunstervile, citizen of London.</title>
+            <author>Dunstervile, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81848</idno>
+            <idno type="STC">Wing D2619</idno>
+            <idno type="STC">Thomason E732_18</idno>
+            <idno type="STC">ESTC R206887</idno>
+            <idno type="EEBO-CITATION">99865982</idno>
+            <idno type="PROQUEST">99865982</idno>
+            <idno type="VID">118241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118241)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E732[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning state-farthings; or, Certain remonstrative reasons for the allowance thereof; wherein is comprised, 1 the honour of the states vindicated, 2 the peoples hearts contented, 3 the Common-wealths good propagated, 4 the relief of the poor increased. By Thomas Dunstervile, citizen of London.</title>
+                  <author>Dunstervile, Thomas.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill ye 6:-".</note>
+                  <note>Reproductions of the originals in the British Library and the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Social conditions --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118241:1" rendition="simple:additions"/>
+            <p>A DECLARATION Concerning State-Farthings; OR, Certain Remonſtrative Reaſons for the allowance thereof;</p>
+            <p>Wherein is compriſed,
+<list>
+                  <item>1 The Honour of the States vindicated,</item>
+                  <item>2 The Peoples hearts contented,</item>
+                  <item>3 The Common-wealths good propagated,</item>
+                  <item>4 The Relief of the Poor increaſed.</item>
+               </list>
+            </p>
+            <p>By <hi>Thomas Dunſtervile,</hi> Citizen of <hi>London.</hi>
+            </p>
+            <p>Imprinted for the Author, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118241:2"/>
+            <pb n="3" facs="tcp:118241:2"/>
+            <head>A Declaration concerning the allowance of Braſs-Farthings, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O the never-dying Honour of the Council confined for the Mint Affaires, every man that petitioned for State Farthings had a fair hearing: their Ho<g ref="char:EOLhyphen"/>nours diligent inquiry into, and care to preſerve his Highneſs and the Councils Honour, and the Common-Wealths good, cannot but ſpeak their praiſes to all poſterity: This was not all, but their Honours management of this ſubject was cloath<g ref="char:EOLhyphen"/>ed with humility and patience, or rather a patient humili<g ref="char:EOLhyphen"/>ty, fit qualifications for perſons in place and honour; for theſe and the like Graces ſhine more gloriouſly in their Honours, then the moſt pureſt Jewel that ever was, could ſhine in the dark Ear of the blackeſt Ethiopian: Theſe are graces indeed, which if they were reſolved into one (I humbiy conceive) they may not be unfitly called the Day<g ref="char:EOLhyphen"/>ſtar of the State; or if you pleaſe, the States Day-Star.
+<pb n="4" facs="tcp:118241:3"/>
+Why ſhould any man then preſume to inſert into any <hi>Diurnal</hi> things their Honours never did, puniſhment rather then mercy were a juſt Reward for ſuch a perſon: But I humbly leave that.</p>
+            <p>There are five principal Reaſons urging the neceſſity for State-Farthings.</p>
+            <list>
+               <item>The firſt is, the States Honour.</item>
+               <item>
+                  <hi>Secondly,</hi> the Subjects content.</item>
+               <item>
+                  <hi>Thirdly,</hi> the Common-wealths profit.</item>
+               <item>
+                  <hi>Fourthly,</hi> the relief of the Poor.</item>
+               <item>
+                  <hi>Fifthly,</hi> the ſuppreſſing of Abuſes now practiſed.</item>
+            </list>
+            <p>And this laſt is done by ſeveral ſorts of men that ſtamp Farthings; not ſo much for their own uſe, as their own profit: ſo that it is as cleer as the Sun, that his Highneſs and the States diſhonour, the Common-wealths diſprofit, the Poor's miſery, and the Commons diſcontent, are all foulded up in the non-allowance of State Farthings; the Poor crying out for mercy, the Commons for redreſs; and this inſufferable abuſe cannot eaſily be corrected, untill it ſhall pleaſe his Highneſs, with his Councel, to ſupreſs the former, and to paſs an Order for the allowance of State Farthings: And I veryly believe this would be an Order of ſuch honourable and neceſſary concernment, that there is ſcarce any Order of Grace ſo like as that, not onely to make the three Common-Wealths, but even Poſterity it ſelf, his Highneſs and Councels Debtors.</p>
+            <p>And yet as this may conduce to an honourable and ne<g ref="char:EOLhyphen"/>ceſſary uſe: ſo (if not rightly ſtated) it may bring with it great inconveniences: To prevent which, I hope. and my charity tels me, that the <hi>Council</hi> will at laſt make choyce of ſuch a Mettal as ſhall be moſt honorable to the State, moſt profitable to the common wealth, hurtful to none, but a
+<pb n="5" facs="tcp:118241:3"/>
+general good to all; And ſure that muſt be ſuch a Mettall as is not eaſie to be counterfeited; and not to be counter<g ref="char:EOLhyphen"/>feited at all by <hi>Founders, Braziers, Pewterers, Tinkers,</hi> or any <hi>Mechanicks</hi> at all; And ſuch a Mettal now lyes before their Honours relating to the Mint.</p>
+            <p>There are other pretenders of the Common-Wealths good too; the Mettals are theſe, <hi>pure Copper of an intrinſick value, Copper and Braſs mixt of the ſame value, Tin of the ſame value; and another white Mettal cozen jerman to Tin itſelf:</hi> In ſhew, all theſe are Pretenders of the Common<g ref="char:EOLhyphen"/>wealths good: Theſe I deſire to diſcourſe on, that all the people of the <hi>Common-wealth</hi> may underſtand, that if His Highneſs and Council ſhall allow of any Farthings, it ſhall be for the States honour, and the Common-wealths good; or elſe there will be none at all: And that I may the bet<g ref="char:EOLhyphen"/>ter undeceive the judgment of ordinary and common men, that either out of ignorance cannot, or out of partiality will not take notice of that which moſt conduces to their own, and publique good, both of State and Common-Wealth. But before I ſhew the uſe and abuſe, give me leave to anſwer two main Objections, which ſome men make a<g ref="char:EOLhyphen"/>gainſt the allowance of State Farthings, their fears and jea<g ref="char:EOLhyphen"/>louſies ariſe from their former ſufferings by Farthings made in the late Kings time; the Proverb is, <hi>the burnt child dreads the fire.</hi>
+            </p>
+            <p>The firſt Objection is, the danger of glutting the Com<g ref="char:EOLhyphen"/>mon-wealth with Farthings.</p>
+            <p>The ſecond, the prejudice poor Labourers will have by their Work-maſters, who will pay them moſt of their mo<g ref="char:EOLhyphen"/>ney in Farthings.</p>
+            <p>I anſwer, that there will be great danger of glutting the Common-wealth, if their Honours allow of Copper or
+<pb n="6" facs="tcp:118241:4"/>
+Braſs, or Tin, or any thing that is eaſie to be counterſeited; for ſuch will be obvious for every man to ſtamp, and it is probable, there will be more ſtamped in every City, Corpo<g ref="char:EOLhyphen"/>ration, Town, and Village, then ſhall be by the command of the State: for, indeed, it is the community of the mettal that loads the Common wealth with theſe inconveniences, upon this account the Mettal is prepared to their hands, let men get but the ſtamp fixt the work is done: we have had ſad experience of this, by thoſe practical abuſes that over<g ref="char:EOLhyphen"/>ſpread the Nation, when Farthings were made in the late Kings time: But of that more fully anon.</p>
+            <p>In anſwer to the ſecond Objection: There are two ways to prevent thoſe abuſes that may accrue to poor Labour<g ref="char:EOLhyphen"/>ers. The firſt is, If pleaſe his Highneſs to command that no Work-maſter ſhall pay a Labourer above 12 d. in 20 s. a poenal Order would curb thoſe wicked ones, that in this way would eat the bread out of poor mens mouthes.</p>
+            <p>Secondly, if the Council order that no allowance ſhall be given in the exchange of farthings for money, then eve<g ref="char:EOLhyphen"/>ry one will buy them as his neceſſity ſhall require, and no further: Yet for the Poors ſake, I could heartily wiſh, that ſince the firſt way might be binding enough to pre<g ref="char:EOLhyphen"/>vent poor mens ſufferings for their Labours, that the con<g ref="char:EOLhyphen"/>deſcenſions of the States love and charity to the Poor, might appear in the allowance of twelve pence in twenty ſhillings change, and upon this account of charity to them, <hi>Charity</hi> it ſelf would ſeem to be a fair flower in the Gar<g ref="char:EOLhyphen"/>land of the States honour: To both which, I humbly ſub<g ref="char:EOLhyphen"/>mit.</p>
+            <p>
+               <pb n="7" facs="tcp:118241:4"/>
+The truth is, I am a Commoner, free-born within the Bounds of <hi>Englands</hi> Common-Wealth; and being ſo, I owe all my abilities, cares, and yeares, to the ſervice of the Common-Wealth.</p>
+            <p>I thank God I have paſſed through ſome employments for others and my ſelf, in the courſe of my life, I have had interchanges, the World it ſelf ſtands upon Viciſſitudes, and it hath pleaſed the eternal God to weave up my life in proſperity and adverſity; and yet my proſperity was never ſo high, as to provoke an ill eye: Nor I praiſe God yet, nor I hope never will be, ſo low, that I ſhall be wholly trod<g ref="char:EOLhyphen"/>den under feet: My afflictions are more my ſorrow then my ſhame; becauſe I find, and veryly believe, there is no ſuch happineſs as to enjoy a little with peace of an honeſt heart: The Worlds disfavours as they have minded me more of my Duty to my GOD, ſo have they made me not forget my Duty to the State, and love to the Common-Wealth, under whoſe Hemiſphere (I bleſs God) I have yet a low Being. But whither do my wandring paſſions lead me.</p>
+            <p>
+               <hi>Gentlemen, and Fellow-Commoners,</hi>
+            </p>
+            <p>Pardon me, and I will endeavor to make good my Ar<g ref="char:EOLhyphen"/>guments, I hope without any juſt offence to any: Indeed, as I am a man, I was not made for contemplation onely, my part was to do, as well as underſtand: in Earthly things I have been an Actor; in Heavenly things a Spectator: Upon the firſt account, I have ſtudied the States Honour,
+<pb n="6" facs="tcp:118241:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:118241:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:118241:6"/>
+and the Common-wealths good, and my endeavours hath produced a proper production to both if it be rightly un<g ref="char:EOLhyphen"/>derſtood. And yet ſuch is the uncharitableneſs of men, that becauſe I was bred a Silk-man, and lived twenty years or thereabouts in Cheap-ſide, and Paternoſter-Roe, a Ma<g ref="char:EOLhyphen"/>ſter for my ſelf: The World is ſo full of aſpick Tongues, that thoſe that hate me without a cauſe <hi>(God</hi> forgive them) report, and ſo would perſwade the World, that the artifice Mettal I have prepared is made by another, and not by my ſelf, I ſhall but deſire theſe men to produce that man that either doth or can make it beſides my ſelf: elſe let them bluſh at their own Errors: But they will ſay I was a Silk<g ref="char:EOLhyphen"/>man, and therefore it is unpoſſible: Oh man! Doeſt thou think that mans weakneſs proves any impoſſibility to <hi>God,</hi> No, no, let not Gods goodneſs be evil ſpoken of, becauſe thou art evil: Let not thy Eye be evil to me, becauſe God hath been good to me: for I muſt confeſs and ſay it is the Lords doing; therefore to him be glory.</p>
+            <p>Now I beſeech you give me leave to unfold what will be honorable for the State, and what will be profitable to the Common-wealth if far<g ref="char:EOLhyphen"/>things be allowed: this I will prove a contrary, by diſcovering firſt what will be diſhonorable, and diſprofitable.</p>
+            <p>There are three forts of Mettals offered to the States Farthings to be made intrinſicall.</p>
+            <pb n="9" facs="tcp:118241:6"/>
+            <list>
+               <item>The firſt is pure Copper, the Author petitions to have it intrinſick.</item>
+               <item>The ſecond is Copper and Braſſe ſememented to<g ref="char:EOLhyphen"/>gether, he calls it a high intrinſick, which is too high for me to underſtand.</item>
+               <item>The third is Tin intrinſick too.</item>
+            </list>
+            <p>All which, I wil prove, if they be allowed, nay any mettal whatſoever, that is eaſie to be counterfeited, of what weight or bigneſſe ſoever it be, will be diſ<g ref="char:EOLhyphen"/>profitable, pernicious, deſtructive, and diſhonorable to the State and Common-wealth; and that which ag<g ref="char:EOLhyphen"/>gravates it the more, it would bring with it, that moſt pernicious thing called, a Monopoly, which all men that love the Commonwealth, do ſo much abominate. Firſt, I will prove it diſprofitable, becauſe if Farthings be made of an equal value, then the State muſt neceſ<g ref="char:EOLhyphen"/>ſarily pay the petitionary pretender of the Common<g ref="char:EOLhyphen"/>wealths good, his Relatives their charges, with all the <hi>Vtenciles</hi> thereunto belonging, which wil amount to three or four thouſand pounds a yeer at the leaſt, and this is not all, though it be too much, but the al<g ref="char:EOLhyphen"/>lowance of any intrinſical mettal, will obſtruct the bringing in of five thouſand pounds a yeer, all char<g ref="char:EOLhyphen"/>ges borne: ſo that here will be eight or nine thou<g ref="char:EOLhyphen"/>ſand pounds a yeer loſſe to the Commonwealth, if you conſider the out-going and the income thereof; thus it appears clearly to be diſprofitable. Secondly, It will be pernicious and deſtructive, I prove it thus: The more impoveriſhed the publike Treaſure is, the heavier burthens by way of Taxes, all men muſt un<g ref="char:EOLhyphen"/>dergo, therefore pernicious, and generally hurtful to all: Can any man think it equal, that your purſes ſhal, or ought to be ful, and the Publike Treaſure ex<g ref="char:EOLhyphen"/>hauſted? God forbid.</p>
+            <p>Secondly, it will be hurtful, becauſe it will be ſub<g ref="char:EOLhyphen"/>ject to every mans counterfeiting; I need not refreſh the memories of any one, it is well known that there
+<pb n="10" facs="tcp:118241:7"/>
+was ſcarce any man, but was a loſer by thoſe farthings formerly made of Copper and Braſſe; thoſe formerly made were Copper, with a ſmal coar of Braſſe on the one ſide, theſe now offered, are Copper in the middle, with Braſſe round about; as the former were coun<g ref="char:EOLhyphen"/>terfeited with ſo many hands, that they crowded the Commonwealth ſo ful of them, that they ſurfeted on a glut, by theſe all men may expect the ſame effects, becauſe they differ onely in form, not in quality; ſo that it is cleer, that there is no ſafety at all, to allow of any common mettal. But it may be you will object, That if they be made intrinſical no man wil counter<g ref="char:EOLhyphen"/>feit them: I pray you deceive not your own judge<g ref="char:EOLhyphen"/>ments, to an unrepairable loſſe; for if you make any common mettal of an intrinſical value, then every five ſhillings worth muſt weigh ſix or ſeven pounds weight, which will require very ſtrong pockets, and if that were all, it were well, but a Tinker, or any Mechannick, ſhal gain three, four, or five pounds in making twenty ſhillings worth; and who ſhal diſ<g ref="char:EOLhyphen"/>prove him? except men do carry weights in their poc<g ref="char:EOLhyphen"/>kets to weigh them as they do gold. This is not all neither, but theſe mettals are in generall uſe through<g ref="char:EOLhyphen"/>out the three Commonwealths, and can any reaſona<g ref="char:EOLhyphen"/>ble man think that it will not exceedingly advance the price of that mettal that ſhould be ſo allowed of? Be not miſtaken, for as ſure as may be, you will finde it a very hard bargain to gain a farthing and loſe a ſhilling. Again, there is another inconvenience, for it is verily thought by ſome knowing men, that there is not Copper and Braſs in the Commonwealth, to ſupply ſo great a work: take heed of a forraign glut, and it is the more to be feared, becauſe they have copper and braſſe at a far lower rate than we in <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> But now me thinks I ſee and hear the Gentle<g ref="char:EOLhyphen"/>man that petitions for Tin to be made into farthings of any intrinſick value, to boaſt and ſay, that Tin is
+<pb n="11" facs="tcp:118241:7"/>
+the only firſubien for farthings, ſaying, we have e<g ref="char:EOLhyphen"/>nough in <hi>England,</hi> not only for our ſelves, but to ſup<g ref="char:EOLhyphen"/>ply others. Grant this, yet be not deceived, for it wil be generally hurtful, if my firſt Arguments can<g ref="char:EOLhyphen"/>not convince your judgment, through your ſelf ends; yet if you will not be angry with me, I wil prove it a Monopoly, and conſequently generally hurtful: I muſt be bold to tell all you Gentlemen, that pretend the Commonwealths good, and petition for farthings to be made of an intrinſick value, you all ſue to bee Monopolizers: I wil prove it thus. A Monopoly is, when a general or common commodity, of what nature ſoever it be, ſhal be ſold unto one man, and he ſhal ingroſſe that Commodity into his own hands, for his own and only profit, to the loſs of many, this is a Monopoly: but this wil be aggravated by the extent of it, for the loſſe wil ſpread it ſelf over the bounds of the three Commonwealths, and over all thoſe places over which the States power extends; and therefore it clearly appears to be very pernitious, and deſtructive, and if ſo, then it muſt needs be very diſ<g ref="char:EOLhyphen"/>honorable to the State to allow ſo great an evil.</p>
+            <p>Theſe things then, being ſo cleare, doth it not viſibly appear, that theſe intrinſical petitionary preten<g ref="char:EOLhyphen"/>ders of the Commonwealths good, do only intend themſelves? they would very fain cure a wound in the thigh, or leg, and make a mortal wound in the head of the State and Commonwealth; it is a great curteſie, from which good Lord paeſerve us; I won<g ref="char:EOLhyphen"/>der they are not aſhamed at their own underſtand<g ref="char:EOLhyphen"/>ings, except they could draw ſome reaſonable argu<g ref="char:EOLhyphen"/>ments in defence of themſelves, which I am confident they cannot; Oh yes, one boaſts of powerful friends, another of his great ſervice he hath done, and that the State oweth him four or five thouſand pounds; Methinks theſe are but weak props; for can any rea<g ref="char:EOLhyphen"/>ſonable
+<pb n="12" facs="tcp:118241:8"/>
+man think, that his Highneſſe and the Coun<g ref="char:EOLhyphen"/>cell, who have hazzarded their lives and fortunes, and all that is pretions to their Honors, to regulate all abuſes, and qualifie as much as in them lyes, all the diſtempers of the nation, wil wonnd their owne Ho<g ref="char:EOLhyphen"/>nors to the worlds end, and to allow an order to any man to have the making of farthings, ether in regard of a near relation, or otherwiſe, it being ſo pernitious and deſtructive, as it clearly appears? no, no, do not believe it, that God that hath made them honorable, will doubtleſſe cloath them with integrity, which wil ballance a iuſt and innocent cauſe againſt all pow<g ref="char:EOLhyphen"/>erfull oppoſers: But ſtay a little, I had like to have forgot the Gentleman, that preſented the white ar<g ref="char:EOLhyphen"/>tified Mettal, Sir I pray you pardon me, I muſt and wil tel its faults, it is as bad as bad may be: Sir, that mettal will be a rare mettal to make counterſeit two<g ref="char:EOLhyphen"/>pences and pence, which are now too many abroad, who would not only convert farthings into twopen<g ref="char:EOLhyphen"/>ces and pence, rather than twopences and pence into farthings: and indeed Sir, your mettal is for the pre<g ref="char:EOLhyphen"/>ſent, ſo like theſe counterſeited two pences, that what miſchief it would bring with it, and hurt to the Com<g ref="char:EOLhyphen"/>wealth, my pen is not able to expreſs, therefore I con<g ref="char:EOLhyphen"/>ceive not worth the owning.</p>
+            <p>Thus I have according to my duty to the State, and love to the Commonwealth, ſhewed the inconvenien<g ref="char:EOLhyphen"/>ces that wil ariſe by any common mettal, or any met<g ref="char:EOLhyphen"/>tal that is eaſie to be counterfeited; by your favor, I ſhal humbly offer to you a mettal made up by art, and it is ſuch a mettal as the earth it ſelf cannot affoord in nature, neither was it ever Kalender'd in any Chroni<g ref="char:EOLhyphen"/>cle or Hiſtory, that ſuch a mettal was ever made be<g ref="char:EOLhyphen"/>fore. Give me leave firſt to tel you the properties of it. 1. It beareth in it two colors, the one a pale fac'd red, imbodied with Azure throughour', ſo that it is different from all ſorts of mettal in color, 2. It is hard
+<pb n="13" facs="tcp:118241:8"/>
+and beautiful like ſilver, in its own kind. 3. It is in color as durable as ſilver: 4. It is much eaſier to counterfeit ſilver than the ſame mettal; which laſt wel weighed, wil take off the fear of counterfeiting Farthings, be<g ref="char:EOLhyphen"/>cauſe (I conceive) no man wil counterfeit farthings, that can counterfeit ſilver with more eaſe, provided the State make a penal Order againſt it, as in like caſes it is for ſilver and gold.</p>
+            <p>The properties thus opened, give me leave to ſhew the inconveniences that wil (if allowed) come with it: And,</p>
+            <p n="1">1. I wil make it appear clearly to be no Monopoly, but that it wil be honorable to the State, profitable to the Commonwealth, and generally good to all people.</p>
+            <p n="1">1. I wil make it appear to be no Monopoly, and that in a threefold conſideration. 1. Conſider it in its eſſen<g ref="char:EOLhyphen"/>tiallity: 2 In its materiallity. 3. In its adjuncts.</p>
+            <p n="1">1. Conſider it in its eſſentiallity, it is ſhapeleſs and immaterial, and therefore can be no Monopoly.</p>
+            <p n="2">2. Conſider it in its materiallity, and it is a new in<g ref="char:EOLhyphen"/>vention which differs from all ſorts of mettal, and it cannot profit or diſprofit any man to have it, or to be without it; as it is ſimply material, it is not com<g ref="char:EOLhyphen"/>mon, but a new invention, and therefore in that re<g ref="char:EOLhyphen"/>gard, good for nothing but farthings, and yet if it were common as copper and braſs is, it would be good for ſeveral things, but then it would not be good for farthings, becauſe it would be a mettal made up to all mens hands, that would counterfeit the <hi>Commonwealths</hi> coyn; ſo likewiſe it is no monopoly in regard of its ma<g ref="char:EOLhyphen"/>teriallity, neither was it ever known, that any new in<g ref="char:EOLhyphen"/>vention could be a Monopoly. Laſtly, conſider it in its adjuncts, it wil be honorable to the <hi>State,</hi> profitable to the <hi>Commonwealth,</hi> harmles, innocent &amp; generally good to all. 1. It wil be honorable, becauſe that if his High<g ref="char:EOLhyphen"/>neſſe &amp; the Councel pleaſe to allow it for farthings, it wil ſet foath to the world how willing his Highneſſe, and their Honors are, not only to preſerve good Laws,
+<pb n="14" facs="tcp:118241:9"/>
+but to confirm them, ſuch an Act of Grace was made in the one and twentieth of the Reign of <hi>James</hi> con<g ref="char:EOLhyphen"/>cerning new Inventions, and in a nother kinde con<g ref="char:EOLhyphen"/>fitmed upon <hi>George Manby, Ano,</hi> 1650. which Acts are extant concerning new Inventions, which Statute Law is ſo clear, ſo honorable, ſo juſt, and grounded on ſuch good reaſons, as namely, to cheriſh arts, eſpecial<g ref="char:EOLhyphen"/>ly when theſe Arts conduce to the States Honor and the Publike good, therefore I hope I ſhal finde the like favor in the behalf of the Commonwealth.</p>
+            <p>Secondly, it wil be honorable, becauſe it wil be profitable, as appears before, it is the honor of a State to have the Publike Treaſure flowing and running over, it is likewiſe profitable to all forts of men, for the benefit it wil bring to the publike Treaſure wil eaſe impoſitſon of taxes, which otherwiſe it would fal more heavy on every man; ſo that it is clear, this is harmleſſe, innocent, hurtful to none, but generally good to all, High and Low, Rich and Poor; then if a Monopoly be generally cvil, and this generally good, this can be no Monopoly. I have no more to ſay, but I pray the eternal God, the mighty Lord, the great <hi>Counſeller of the whole world,</hi> to infuſe ſuch wiſdom in<g ref="char:EOLhyphen"/>to the hearts of his <hi>Highneſs</hi> and <hi>Councel,</hi> that they may act without delay, thoſe things which may moſt conduce to <hi>Gods glory,</hi> the <hi>States honor,</hi> and the <hi>Com<g ref="char:EOLhyphen"/>menwealths good,</hi> and I believe, when it ſhal pleaſe their <hi>Honors</hi> once really to conſider of this very thing, it is a buſineſs of ſuch <hi>honorable</hi> and <hi>neceſſary concern<g ref="char:EOLhyphen"/>ment</hi> to the <hi>Commonwealth,</hi> that their <hi>Honors</hi> wil bee loath to loſe a day in the promoting of it; for ſure it would be a day of <hi>Glory to God,</hi> a day of <hi>Honor to the State,</hi> a day of <hi>gladneſs and rejoycing to the poor,</hi> and a day of <hi>content to all people.</hi> In fine, the allowance of <hi>State-farthings</hi> wil cut off thoſe pernitious abuſes pra<g ref="char:EOLhyphen"/>ctiſed againſt the <hi>States honor</hi> and <hi>Commonwealths good:</hi> I wiſh that it may be fix'c where the merrit of the cauſe moſt depends, and no otherwiſe:</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118241:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
